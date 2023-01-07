@@ -13,6 +13,10 @@ public class App {
 		System.out.println("Added by Developer2");
 	}
 	
+	public void Phase2() {
+		System.out.println("Phase2");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}

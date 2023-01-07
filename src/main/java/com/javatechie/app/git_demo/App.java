@@ -4,6 +4,9 @@ public class App {
 
 	public void addData(String name) {
 		System.out.println("data : "+ name);
+		if(name.equals("java techie")) {
+			System.out.println("Welcome");
+		}
 	}
 	
 	public static void main(String[] args) {

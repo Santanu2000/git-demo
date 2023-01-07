@@ -4,7 +4,7 @@ public class App {
 
 	public void addData(String name) {
 		System.out.println("data : "+ name);
-		if(name.equals("java techie")) {
+		if(name.equals(Constant.name)) {
 			System.out.println("Welcome");
 		}
 	}
